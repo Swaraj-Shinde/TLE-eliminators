@@ -16,9 +16,12 @@ int main()
     {
       if(char_y_coord-arr_y[i]>=2)
       {
-        cout<<"NO";
+        cout<<"NO\n";
+      }
+      else
+      {
+        cout<<"YES\n";
       }
     }
-
     return 0;
 }
