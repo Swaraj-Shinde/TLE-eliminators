@@ -1,5 +1,6 @@
 # Compiled executables
 *.exe
+.cph/
 *.out
 *.o
 *.obj
